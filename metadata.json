@@ -1,0 +1,7 @@
+{
+  "name": "HR Expert Resume Rater & Career Audit Studio",
+  "description": "Executive HR resume evaluation and AI career intelligence suite. Get in-depth recruiter ratings, ATS scoring, section-by-section critiques, and high-thinking career coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
